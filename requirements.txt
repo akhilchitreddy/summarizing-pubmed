@@ -1,0 +1,8 @@
+sentence_transformers
+torch
+tabulate
+langchain-openai
+evaluate
+scikit-learn
+transformers
+sentencepiece
