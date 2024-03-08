@@ -6,3 +6,6 @@ evaluate
 scikit-learn
 transformers
 sentencepiece
+datasets
+accelerate
+nltk
